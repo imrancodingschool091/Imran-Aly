@@ -1,6 +1,6 @@
 // eslint-disable-next-line no-unused-vars
 import React from 'react';
-import { motion } from 'framer-motion'; // Import motion
+import { motion } from 'framer-motion';
 import './qualification.css';
 
 const Qualification = () => {
@@ -45,13 +45,13 @@ const Qualification = () => {
             whileInView="visible"
             viewport={{ once: true, margin: "-100px" }}
           >
-            {/* Education Entry 1 */}
+            {/* Education Entry 1 - Graduation */}
             <motion.div className="qualification__data" variants={dataVariants}>
               <div>
-                <h3 className="qualification__title">Bachelor of Technology🎓</h3>
-                <span className="qualification__subtitle">REVA University - Bengaluru</span>
+                <h3 className="qualification__title">Bachelor's Degree🎓</h3>
+                <span className="qualification__subtitle">Punjab Technical University (PTU)</span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i> 2020 - 2024
+                  <i className="uil uil-calendar-alt"></i> 2022-25
                 </div>
               </div>
 
@@ -68,7 +68,7 @@ const Qualification = () => {
               </div>
             </motion.div>
 
-            {/* Education Entry 2 */}
+            {/* Education Entry 2 - 12th */}
             <motion.div className="qualification__data" variants={dataVariants}>
               <div></div>
 
@@ -84,13 +84,36 @@ const Qualification = () => {
                 />
               </div>
               <div>
-                <h3 className="qualification__title">Higher Secondary🧪</h3>
-                <span className="qualification__subtitle">CBSE - Bengaluru</span>
+                <h3 className="qualification__title">Higher Secondary (12th)📚</h3>
+                <span className="qualification__subtitle">Lalit Narayan Mithila University</span>
                 <div className="qualification__calender">
                   <i className="uil uil-calendar-alt"></i> 2018 - 2020
                 </div>
               </div>
             </motion.div>
+
+            {/* Education Entry 3 - 10th (if you want to add) */}
+            {/* <motion.div className="qualification__data" variants={dataVariants}>
+              <div>
+                <h3 className="qualification__title">Secondary School (10th)📖</h3>
+                <span className="qualification__subtitle">Your School Name</span>
+                <div className="qualification__calender">
+                  <i className="uil uil-calendar-alt"></i> Year - Year
+                </div>
+              </div>
+
+              <div>
+                <motion.span
+                  className="qualification__round"
+                  initial={{ scale: 0 }}
+                  variants={{ visible: { scale: 1 } }}
+                />
+                <motion.span
+                  className="qualification__line"
+                  variants={lineVariants}
+                />
+              </div>
+            </motion.div> */}
           </motion.div>
         </div>
       </div>
