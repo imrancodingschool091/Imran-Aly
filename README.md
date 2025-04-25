@@ -1,6 +1,6 @@
 # 🚀 Soumyajit Basak's Developer Portfolio
 
-![Portfolio Banner](https://github.com/soumyajiitt/Portfolio/blob/master/src/assets/Work4.png)
+![Portfolio Banner](E:\Portfolio-master\Portfolio-master\src\assets\Work4.png)
 
 Welcome to my personal developer portfolio — a sleek, interactive, and dynamic website that gives you a deep dive into who I am, what I build, and how I think. Built with passion and precision, this project showcases not only my skills but also my creativity in building web experiences.
 
