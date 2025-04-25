@@ -1,4 +1,4 @@
-# 🚀 imran ali's Developer Portfolio
+# 🚀 's Developer Portfolio
 
 ![Portfolio Banner](E:\Portfolio-master\Portfolio-master\src\assets\Work4.png)
 
@@ -71,9 +71,9 @@ Click the **“Say Hello”** button on my portfolio to **book a meeting** with 
 
 ## 📫 Connect with Me
 
-;; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/soumyajiitttt)  
-;; [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white)](https://www.instagram.com/soumyajiitttt)  
-;; [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge&logoColor=white)](https://github.com/soumyajiitt)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/imran-aly-6128012a7/)  
+ [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white)](https://www.instagram.com/imrancodingschool/)  
+ [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge&logoColor=white)](https://github.com/imrancodingschool091)
 
 ---
 
