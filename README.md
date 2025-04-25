@@ -4,7 +4,7 @@
 
 Welcome to my personal developer portfolio — a sleek, interactive, and dynamic website that gives you a deep dive into who I am, what I build, and how I think. Built with passion and precision, this project showcases not only my skills but also my creativity in building web experiences.
 
----
+--------------------------------------------------------------------------------
 
 ## 🧑‍💻 About Me
 
