@@ -1,4 +1,4 @@
-# 🚀 Soumyajit Basak's Developer Portfolio
+# 🚀 imran ali's Developer Portfolio
 
 ![Portfolio Banner](E:\Portfolio-master\Portfolio-master\src\assets\Work4.png)
 
@@ -8,9 +8,9 @@ Welcome to my personal developer portfolio — a sleek, interactive, and dynamic
 
 ## 🧑‍💻 About Me
 
-**Name:** Soumyajit Basak  
-**Title:** Jr. Software Developer  
-**Location:** Bengaluru, India  
+**Name:** Imran Ali
+**Title:** Jr. Software 
+**Location:** Chandigarh  
 
 Passionate Engineering Graduate, self-starter, quick learner, and adapt at using technical skills for organizational improvement.
 
@@ -52,7 +52,7 @@ Each section is carefully crafted to tell my story and showcase my journey.
 
 ## 📷 Sneak Peek
 
-![Screenshot](https://github.com/soumyajiitt/Portfolio/blob/master/src/assets/Work4.png)
+![Screenshot]()
 
 ---
 
@@ -65,15 +65,15 @@ Click the **“Say Hello”** button on my portfolio to **book a meeting** with 
 
 ## 🌐 Live Demo
 
-[🚀 Visit My Portfolio](https://soumyajitbasak.netlify.app/)  
+[🚀 Visit My Portfolio]()  
 
 ---
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/soumyajiitttt)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white)](https://www.instagram.com/soumyajiitttt)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge&logoColor=white)](https://github.com/soumyajiitt)
+;; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/soumyajiitttt)  
+;; [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white)](https://www.instagram.com/soumyajiitttt)  
+;; [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge&logoColor=white)](https://github.com/soumyajiitt)
 
 ---
 
@@ -83,4 +83,4 @@ Thanks for stopping by. Feel free to fork this project, raise issues, or drop a 
 
 ---
 
-> Built with ❤️ by **Soumyajit Basak**
+> Built with ❤️ by **Imran Aly**
